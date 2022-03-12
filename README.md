@@ -1,3 +1,1 @@
-# CyberWorld
-Всякие плюшки и штучки с сервера CyberWorld
-https://discord.gg/qRVz8pt
+<h1 align="center">CyebrWorld</h1>
