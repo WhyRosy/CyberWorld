@@ -1,9 +1,3 @@
-<h1 align="center">CyberWorld</h1>
-<p align="center">Спасибо за то что остаётесь с нами!</p>
-
-## ✨Наши проекты
-Здесь вся нужная информация о оффициальных проектах CyberWorld
-
 <h1 align="center"><img src="./assets/cyberworld-music-logo.gif" width="30px"> CyberWorld Music <img src="./assets/cyberworld-music-logo.gif" width="30px"></h1>
 <p align="center">Используйте свой плейлист Spotify, видео на YouTube, плейлисты на YouTube и многое другое с помощью этого бота</p>
 
