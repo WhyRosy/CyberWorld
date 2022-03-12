@@ -6,5 +6,5 @@
 
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> CyberWorld Music <img src="./assets/logo.gif" width="30px"></h1>
 
-##📎 Ссылки
+## 📎 Ссылки
 - [Оффициальный сайт](https://cyberworld-music.ga)
