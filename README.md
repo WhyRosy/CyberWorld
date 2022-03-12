@@ -5,4 +5,6 @@
 Здесь вся нужная информация о оффициальных проектах CyberWorld
 
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> CyberWorld Music <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">[Оффициальный сайт](https://cyberworld-music.ga)</p>
+
+##📎 Ссылки
+- [Оффициальный сайт](https://cyberworld-music.ga)
