@@ -11,3 +11,10 @@
 ## 📎 Ссылки
 - [Оффициальный сайт](https://cyberworld-music.ga)
 - [Добавить на сервер](https://discord.com/oauth2/authorize?client_id=951942320335511642&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=https://cyberworld-music.ga/api/callback&response_type=code)
+
+<h1 align="center"> Sinna </h1>
+<p align="center">Самая развратная и грешная ботиха дискорда</p>
+
+## 📎 Ссылки
+- [Добавить на сервер](https://discord.com/api/oauth2/authorize?client_id=779812322742239262&permissions=51200&scope=bot)
+
