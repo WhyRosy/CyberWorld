@@ -16,5 +16,5 @@
 <p align="center">Самая развратная и грешная ботиха дискорда</p>
 
 ## 📎 Ссылки
-- [Добавить на сервер](https://discord.com/api/oauth2/authorize?client_id=779812322742239262&permissions=51200&scope=bot)
+- [Добавить на сервер](https://discord.com/api/oauth2/authorize?client_id=779812322742239262&permissions=140190805056&scope=bot)
 
